@@ -5,8 +5,6 @@ The goal of this project is to provide a centralized reference for tools, techni
 
 This repository is continuously maintained and evolving. New resources are added regularly as they are discovered, while outdated or inactive entries are periodically reviewed.
 
-Scope
-
 The repository includes links to a wide range of resources, including:
 
 OSINT tools and investigative utilities
